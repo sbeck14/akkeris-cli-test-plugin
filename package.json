@@ -1,0 +1,22 @@
+{
+  "name": "akkeris-cli-test-plugin",
+  "version": "1.0.0",
+  "description": "Test plugin for the Akkeris CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbeck14/akkeris-cli-test-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbeck14/akkeris-cli-test-plugin/issues"
+  },
+  "homepage": "https://github.com/sbeck14/akkeris-cli-test-plugin#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
